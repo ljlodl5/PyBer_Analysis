@@ -43,7 +43,7 @@ In evaluating the line graph there seems to be a little more volatility in weekl
   
 * **Understanding the Customer** 
 Total rideshare usage in rural and suburban markets are less than urban markets, in part due to access to transportation. Understanding why the customer is using Pyber in these markets can place appropriate focus on advertising services. 
-For example, suburban users have an uptick in usability during warmer spring months. What is the draw of using rideshare and how can Pyber tap into the market to drive the demand for services all year? Can this same uptick, drive rural communities as well?
+For example, suburban users have an uptick in usability during warmer spring months. What is the draw of using rideshare and how can Pyber tap into the market to drive the demand for services all year? Can this same uptick drive rural communities as well?
 While the drop in rural cities during farming season may be as expected, there may be consumer opportunities to drive year-long demand with prices and services that are attractive to rural communities.   
  
 * **Forecasting Events/Forecasting Optimal Price Points** 
