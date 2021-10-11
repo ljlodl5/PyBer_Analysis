@@ -26,7 +26,7 @@ Suburban clients have access to personal vehicles and thus have choices on wheth
 In the following line graph the suburban client appears to have trend differences based on the time of year, those trends need to be evaluated to determine how to maximize profit.   
 
 ##
-### **RideShare Impacts: Total Weekly Fare per City Type between January-April 2019 ** 
+### RideShare Impacts: Total Weekly Fare per City Type between January-April 2019  
 
 Similar to the data provided above, the weekly total fare per city type represents the highest fares in urban population while rural populations remain consistently the lowest. 
 
