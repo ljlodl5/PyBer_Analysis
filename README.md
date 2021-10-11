@@ -10,7 +10,7 @@ Subsequently, the line graph of Weekly Total Fares by City Type displays profita
 ## **Results**
 
 ### **RideShare Impacts: Multiple Data Indicators Across City Type** 
-Enclosed is a summary dataframe comparing five indicators of ridershare experience between rural, suburban and urban cities between January and April 2019. The following results exist: 
+Enclosed is a summary dataframe comparing five indicators of ridershare experience between rural, suburban and urban cities between January and early May 2019. The following results exist: 
 
 #### ![Key Indicators](https://github.com/ljlodl5/PyBer_Analysis/blob/main/Analysis/Pyber%20Dataframe.png)
 
