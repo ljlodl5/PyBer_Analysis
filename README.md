@@ -30,7 +30,7 @@ In the following line graph the suburban client appears to have trend difference
 
 Similar to the data provided above, the weekly total fare per city type represents the highest fares in urban population while rural populations remain consistently the lowest. 
 
-#### ![Total Fare by City](https://github.com/ljlodl5/PyBer_Analysis/blob/main/Analysis/Total%20Fare%20by%20City%20Type.png)
+#### ![Total Fare by City](https://github.com/ljlodl5/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
 
 		 
