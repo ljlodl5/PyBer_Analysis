@@ -5,7 +5,7 @@ Rideshare Analysis and Visualization Techniques with Matplotlib
 
 Utilizing two sample rideshare datasets; 1) city data 2) ride data, the goal of this assignment is to present ridershare patterns across city types in order for Pyber to evaluate how to maximize profitability across rural, suburban and urban cities. 
 The dataframe enclosed will provide a snapshot of Total Rides, Total Drivers, Total Fares, Average Fare per Ride, and Average Fare per Driver each city type incurs in order glean the rideshare supply and demand behaviors between January through early May 2019. 
-Subsequently, the line graph of Weekly Total Fares by City Type displays profitability across city types but begs the question on how high the bar can be raised for Pyber based on trends from January to April 2019.   
+Subsequently, the line graph of Weekly Total Fares by City Type displays profitability across city types but begs the question of how high the bar can be raised for Pyber based on trends from January to April 2019.   
 
 ## **Results**
 
@@ -15,13 +15,13 @@ Enclosed is a summary dataframe comparing five indicators of ridershare experien
 #### ![Key Indicators](https://github.com/ljlodl5/PyBer_Analysis/blob/main/Analysis/Pyber%20Dataframe.png)
 
 * **Rural**
-The total supply (fares, rides and drivers) are the lowest of the three city types while the demand currently yields the highest average rate per fare and average rate per driver.
+The total supply (rides and drivers) are the lowest of the three city types while the demand currently yields the highest average rate per fare and average rate per driver.
 On the surface this is the expectation of low driver availability and the price users are willing to pay to utilize Pyber services. Presumably rural users are going further to their destination and willing to pay for the convenience, albeit much less frequently than the suburban and urban population.
 * **Urban**
-The total supply (fares, rides and drivers) are the highest of the three city types while the demand currently yields the lowest average rate per fare and average rate per driver.
+The total supply (rides and drivers) are the highest of the three city types while the demand currently yields the lowest average rate per fare and average rate per driver.
 Generally living without personal transportation, urban populations are in high-demand for public and private transportation to get to seemingly shorter destinations than suburban and rural populations. The average fare per ride and average fare per driver are smaller in part because demand and supply is high and distances shorter.    
 * **Suburban**
-Striking a balance in supply and demand, the total supply (fares, rides and drivers) remains in the middle for suburban clients. In addition, demand currently yields between rural and urban average rate per fare and average rate per driver.
+Striking a balance in supply and demand, the total supply (rides and drivers) remains in the middle for suburban clients. In addition, demand currently yields between rural and urban average rate per fare and average rate per driver.
 Suburban clients have access to personal vehicles and thus have choices on whether the cost (more reasonable that rural rides) is worth the benefit of leaving personal vehicles at home. 
 In the following line graph the suburban client appears to have trend differences based on the time of year, those trends need to be evaluated to determine how to maximize profit.   
 
