@@ -4,12 +4,14 @@ Rideshare Analysis and Visualization Techniques with Matplotlib
 ## **Overview of Pyber analysis**
 
 Utilizing two sample rideshare datasets; 1) city data 2) ride data, the goal of this assignment is to present ridershare patterns across city types in order for Pyber to evaluate how to maximize profitability across rural, suburban and urban cities. 
-The dataframe enclossed will provide a snapshot of Total Rides, Total Drivers, Total Fares, Average Fare per Ride, and Average Fare per Driver each city type incurs in order glean the rideshare supply and demand behaviors between January through early May 2019. 
+The dataframe enclosed will provide a snapshot of Total Rides, Total Drivers, Total Fares, Average Fare per Ride, and Average Fare per Driver each city type incurs in order glean the rideshare supply and demand behaviors between January through early May 2019. 
 Subsequently, the line graph of Weekly Total Fares by City Type displays profitability across city types but begs the question on how high the bar can be raised for Pyber based on trends from January to April 2019.   
 
 ## **Results**
+
 ### **RideShare Impacts: Multiple Data Indicators Across City Type** 
 Enclosed is a summary dataframe comparing five indicators of ridershare experience between rural, suburban and urban cities between January and April 2019. The following results exist: 
+
 #### ![Key Indicators](https://github.com/ljlodl5/School_District_Analysis/blob/main/Resources/THS%20pre%20NaN.png)
 
 * **Rural**
@@ -24,12 +26,15 @@ Suburban clients have access to personal vehicles and thus have choices on wheth
 In the following line graph the suburban client appears to have trend differences based on the time of year, those trends need to be evaluated to determine how to maximize profit.   
 
 ### **RideShare Impacts: Total Weekly Fare per City Type between January-April 2019 ** 
+
 Similar to the data provided above, the weekly total fare per city type represents the highest fares in urban population while rural populations remain consistently the lowest. 
-#### ![Total Fare by City](https://github.com/ljlodl5/School_District_Analysis/blob/main/Resources/THS%20pre%20NaN.png)
+
+#### ![Total Fare by City](http://localhost:8890/view/Desktop/GitRep/PyBer_Analysis/analysis/Total%20Fare%20by%20City%20Type.png)
 
 
 		 
 ## **Summary**
+
 ### Based on the results between rural, suburban and urban ridershare experience, the following recommendations should be considered to address disparities:
 * **Evaluating Supply**
 Urban communities will always have hot demand for public and private transportation. The decision to use rideshare services is a matter of price and convenience among other available transportation types. 
